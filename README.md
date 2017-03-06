@@ -11,7 +11,7 @@ Yakuake minimalistic skin, no text, no buttons, just tabs. The Open Menu button 
 # Setup
 ## Manual 
 ```bash
-git clone https://github.com/dann1/yakuake-skin-breeze-tiny/.git
+git clone https://github.com/dann1/yakuake-skin-breeze-tiny.git 
 cd yakuake-skin-breeze-tiny
 ```
 For every user
